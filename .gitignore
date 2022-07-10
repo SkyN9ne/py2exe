@@ -2,6 +2,7 @@
 .*.sw[po]
 *.exe
 *.whl
+*.dll
 venv
 
 enabled_tests.txt
